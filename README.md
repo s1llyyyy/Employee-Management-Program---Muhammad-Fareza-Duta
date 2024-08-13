@@ -1,5 +1,5 @@
 # Capstone Project : Modul 1 - Employee Management Program with CRUD Method
-This application can be used for employee management purposes. The application has several CRUD (Create, Read, Update, and Delete) features related to employee management in a company.
+This program serves as a Employee Management System, utilizing the CRUD (Create, Read, Update, Delete) methodology for effective management of employee data within a company. It is implemented in Python and operates through a command-line interface (CLI).
 
 ## Application Features
 - Feature to display employee profiles (can view employee profiles in selected departments)
